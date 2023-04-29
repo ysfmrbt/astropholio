@@ -33,7 +33,7 @@ const Hero = () => {
 				<div className='flex-wrap flex justify-center gap-3 items-center'>
 					<div>
 						<PrimaryButton
-							link='cv.pdf'
+							link='cv_youssef_mrabet.pdf'
 							content='Download CV'
 						/>
 					</div>
