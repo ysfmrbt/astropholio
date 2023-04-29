@@ -4,7 +4,7 @@ const SkillCard = ({ logo, title }) => {
 		<div className='py-7 flex flex-col justify-center items-center rounded-md'>
 			<div className='mb-4'>
 				<img
-					className='w-16 shadow-sm'
+					className='w-8 md:w-16 shadow-sm'
 					src={`https://skillicons.dev/icons?i=${logo?.name}`}
 					alt={logo?.alt}
 				/>
